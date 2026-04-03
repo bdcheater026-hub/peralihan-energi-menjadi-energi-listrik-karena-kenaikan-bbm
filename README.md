@@ -18,3 +18,7 @@ Proses scraping dilakukan secara otomatis dengan mengambil informasi berupa judu
 1. Install library yang dibutuhkan:
    ```bash
    pip install -r requirements.txt
+
+## Author
+Nama: Rafli Achmad Nalisga  
+NIM: 241080200028
